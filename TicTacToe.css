@@ -1,0 +1,85 @@
+body{
+    overflow: hidden;
+}
+#MainDiv{
+    height: 504px;
+    width: 404px;
+    /* border: 1px solid black; */
+}
+#Name{
+    height: 100px;
+    border: 1px solid wheat;
+    background-color: wheat;
+}
+#InsideDiv{
+    border: 1px solid black;
+    height: 400px;
+}
+#MainBut{
+    height: 404px;
+    width: 404px;
+}
+.row{
+    height: 133px;
+    display: flex;
+    /* border: 1px solid black; */
+}
+.col{
+    width: 133px;
+    border: 1px solid black;
+}
+#b1{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b2{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b3{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b4{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b5{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b6{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b7{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b8{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#b9{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+.butstyle{
+    background-color: brown;
+}
+.tic{
+    text-align: center;
+}
+#result{
+    text-align: center;
+    width: 404px;
+}
