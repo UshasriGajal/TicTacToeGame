@@ -33,6 +33,16 @@ body{
     width: 133px;
     background-color: white;
 }
+#x_el{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
+#o_el{
+    height: 133px;
+    width: 133px;
+    background-color: white;
+}
 #b2{
     height: 133px;
     width: 133px;
@@ -80,6 +90,30 @@ body{
     text-align: center;
 }
 #result{
-    text-align: center;
+    /* text-align: center; */
     width: 404px;
+    padding-left: 80px;
 }
+.restart{
+    background-color: wheat;
+    border-color: wheat;
+    margin-left: 10px;
+    width: 80px;
+    height: 30px;
+}
+.restart1{
+    background-color: wheat;
+    border-color: wheat;
+    margin-left: 80px;
+    width: 80px;
+    height: 30px;
+}
+.x_el{
+    
+    font-size: xx-large;
+}
+.o_el{
+    font-size: xx-large;
+}
+
+
