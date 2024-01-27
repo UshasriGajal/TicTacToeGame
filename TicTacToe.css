@@ -4,7 +4,7 @@ body{
 #MainDiv{
     height: 504px;
     width: 404px;
-    margin:35%;
+    margin-left:35%;
     /* border: 1px solid black; */
 }
 #Name{
